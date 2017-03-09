@@ -124,10 +124,6 @@
 		{
 			"Name": "SteamVR",
 			"Enabled": false
-		},
-		{
-			"Name": "AndroidPermission",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
