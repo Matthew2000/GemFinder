@@ -180,6 +180,7 @@
 		"WindowsNoEditor",
 		"LinuxNoEditor",
 		"MacNoEditor",
-		"HTML5"
+		"HTML5",
+		"AllDesktop"
 	]
 }
